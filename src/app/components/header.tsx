@@ -16,7 +16,7 @@ const Header = () => {
           </div>
 
           {/* Social Media Links */}
-          <div className="flex space-x-4 mt-4 md:mt-0">
+          <div className="flex space-x-4 mt-4 md:mt-0 bg-white pl-96 p-1">
             <Link href="#" className="hover:opacity-80 transition" aria-label="Facebook">
               <Image src="/icons/Facebook.png" alt="Facebook Icon" width={20} height={20} />
             </Link>
@@ -48,7 +48,7 @@ const Header = () => {
           </div>
 
           {/* Navigation */}
-          <nav className="hidden md:flex space-x-4">
+          <nav className="hidden md:flex space-x-6 bg-white p-4 mr-4">
             <Link href="#" className="text-gray-700 hover:underline">
               Home
             </Link>
