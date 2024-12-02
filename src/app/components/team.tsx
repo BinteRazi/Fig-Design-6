@@ -66,6 +66,11 @@ export default function Team() {
   ];
 
   return (
+    <div className="max-w-screen-lg mx-auto text-center py-12">
+    <h2 className="text-3xl font-bold mb-4">Our team</h2>
+      <p className="text-gray-500 mb-8">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      </p>
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
       {team.map((member, index) => (
         <div key={index} className="text-center p-6">
@@ -114,5 +119,6 @@ export default function Team() {
         </div>
       ))}
     </div>
+      </div>
   );
 }
