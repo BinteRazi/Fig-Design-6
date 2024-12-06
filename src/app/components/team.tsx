@@ -8,7 +8,7 @@ export default function Team() {
       role: 'Marketing Coordinator',
       img: '/images/team_Image 1.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
@@ -18,7 +18,7 @@ export default function Team() {
       role: 'Medical Assistant',
       img: '/images/team_Image 3.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
@@ -28,7 +28,7 @@ export default function Team() {
       role: 'Nursing Assistant',
       img: '/images/team_Image 2.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
@@ -38,7 +38,7 @@ export default function Team() {
       role: 'Web Designer',
       img: '/images/team_Image 4.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
@@ -48,7 +48,7 @@ export default function Team() {
       role: 'President of Sales',
       img: '/images/team_Image 5.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
@@ -58,7 +58,7 @@ export default function Team() {
       role: 'Dog Trainer',
       img: '/images/team_Image 6.png',
       social: {
-        linkedin: '/icons/Linkedin.png',
+        linkedin: '/icons/LinkedIn.png',
         twitter: '/icons/Twitter.png',
         website: '/icons/Web.png',
       },
